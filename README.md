@@ -27,4 +27,4 @@ This repositroy contains weeks 7 assignment for Zuri I4G cohort 2022.
 
 ## Demo
 
--https://replit.com/@wbizmo/todo-api-main
+- https://replit.com/@wbizmo/todo-api-main
